@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Beef Stick",
+        "price": 4,
+        "disc": "A gas station staple",
+        "heal": 25
+    },
+    {
+        "name": "Soda",
+        "price": 3,
+        "disc": "Tastes like kidney stones",
+        "heal": 20
+    },
+    {
+        "name": "Hot Dog",
+        "price": 7,
+        "disc": "Stay close to a toilet",
+        "heal": 50
+    },
+    {
+        "name": "Energy Drink",
+        "price": 10,
+        "disc": "Ride a dirt bike. Punch a wall.",
+        "heal": 70
+    }
+
+
+]
+

@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Brooklyn",
+        "places": ["market", "shop", "gunStore"],
+        "favProduct": "acid"
+    },
+    {
+        "name": "Queens",
+        "places": ["market", "shop", "bank"],
+        "favProduct": "heroin"
+    },
+    {
+        "name": "Manhattan",
+        "places": ["market", "shop", "bank"],
+        "favProduct": "cocaine"
+    },
+    {
+        "name": "Staten Island",
+        "places": ["market", "shop", "bank"],
+        "favProduct": "meth"
+    },
+    {
+        "name": "The Bronx",
+        "places": ["market", "shop", "bank"],
+        "favProduct": "weed"
+    }
+]
+

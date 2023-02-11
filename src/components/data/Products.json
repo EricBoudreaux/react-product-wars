@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Weed",
+        "price": "$",
+        "disc": "The devils lettuce",
+        "low": 3,
+        "high": 11,
+        "risk": 4,
+        "avail": 0,
+        "stockHigh": 15,
+        "stockLow": 5,
+        "id": 0
+    },
+    {
+        "name": "Acid",
+        "price": "$",
+        "disc": "The purple people eaters product",
+        "low": 7,
+        "high": 24,
+        "risk": 2,
+        "avail": 3,
+        "stockHigh": 10,
+        "stockLow": 2,
+        "id": 1
+    },
+    {
+        "name": "Mushrooms",
+        "price": "$",
+        "disc": "It's natural right?",
+        "low": 5,
+        "high": 15,
+        "risk": 3,
+        "avail": 2,
+        "stockHigh": 12,
+        "stockLow": 4,
+        "id": 2
+    },
+    {
+        "name": "Meth",
+        "price": "$$",
+        "disc": "We have to cook!",
+        "low": 15,
+        "high": 30,
+        "risk": 3,
+        "avail": 4,
+        "stockHigh": 18,
+        "stockLow": 5,
+        "id": 3
+    },
+    {
+        "name": "Heroin",
+        "price": "$$",
+        "disc": "Mr Brownstone",
+        "low": 23,
+        "high": 45,
+        "risk": 8,
+        "avail": 5,
+        "stockHigh": 16,
+        "stockLow": 2,
+        "id": 4
+    },
+    {
+        "name": "Cocaine",
+        "price": "$$",
+        "disc": "Booger sugar",
+        "low": 30,
+        "high": 55,
+        "risk": 9,
+        "avail": 6,
+        "stockHigh": 16,
+        "stockLow": 5,
+        "id": 5
+    },
+    {
+        "name": "Green Dragon",
+        "price": "$$$",
+        "disc": "Hot new product. Use with caution",
+        "low": 30,
+        "high": 100,
+        "risk": 10,
+        "avail": 8,
+        "stockHigh": 5,
+        "stockLow": 1,
+        "id": 6
+
+    }
+]
+

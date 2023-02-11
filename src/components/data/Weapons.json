@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Baseball Bat",
+        "price": 15,
+        "disc": "Not the best weapon, but it is a weapon",
+        "dam": 1
+        
+    },
+    {
+        "name": "Glock",
+        "price": 75,
+        "disc": "Standard Pistol. Common cop firearm",
+        "dam": 3
+    },
+    {
+        "name": "Uzi",
+        "price": 150,
+        "disc": "Automatic. Spray and pray",
+        "dam": 4
+    },
+    {
+        "name": "AK",
+        "price": 200,
+        "disc": "Time to go commando",
+        "dam": 5
+    }
+
+]
+
